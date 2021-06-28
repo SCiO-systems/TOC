@@ -42,6 +42,12 @@
                         rdfs:range :TargetIndicator .
 
 
+###  http://www.icarda.org/schemas/toc/defines_causal_link
+:defines_causal_link rdf:type owl:ObjectProperty ;
+                     rdfs:domain :TOC ;
+                     rdfs:range :CausalLink .
+
+
 ###  http://www.icarda.org/schemas/toc/expected_action
 :expected_action rdf:type owl:ObjectProperty ;
                  rdfs:domain :CausalLink ;
@@ -76,6 +82,12 @@
 :geo_dimension rdf:type owl:ObjectProperty ;
                rdfs:domain :CausalLink ;
                rdfs:range :GeoScope .
+
+
+###  http://www.icarda.org/schemas/toc/has_work_package
+:has_work_package rdf:type owl:ObjectProperty ;
+                  rdfs:domain :Programme ;
+                  rdfs:range :WorkPackage .
 
 
 ###  http://www.icarda.org/schemas/toc/impacts_target
@@ -136,6 +148,12 @@
 :includes_toc rdf:type owl:ObjectProperty ;
               rdfs:domain :TocFlow ;
               rdfs:range :TOC .
+
+
+###  http://www.icarda.org/schemas/toc/involves_result
+:involves_result rdf:type owl:ObjectProperty ;
+                 rdfs:domain :TOC ;
+                 rdfs:range :Result .
 
 
 ###  http://www.icarda.org/schemas/toc/link_from
@@ -595,6 +613,11 @@ owl:topObjectProperty rdfs:domain :Comment ;
 ###  http://www.icarda.org/schemas/toc/UnitOfMeasurement
 :UnitOfMeasurement rdf:type owl:Class ;
                    rdfs:label "Unit Of Measurement"^^xsd:string .
+
+
+###  http://www.icarda.org/schemas/toc/WorkPackage
+:WorkPackage rdf:type owl:Class ;
+             rdfs:label "Work Package"^^xsd:string .
 
 
 ###  http://www.icarda.org/schemas/toc/WorkPackageLevel
