@@ -1,0 +1,17 @@
+{
+  "narrative" : "WP narrative",
+  "comments" : [
+    {
+      "id" : "1",
+      "commenter" : "1",
+      "comment" : "This is a sample comment",
+      "mentions" : ""
+    },
+    {
+      "id" : "2",
+      "commenter" : "1",
+      "comment" : "This is another sample comment",
+      "mentions" : ""
+    }
+  ]
+}

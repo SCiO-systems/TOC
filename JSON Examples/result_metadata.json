@@ -1,0 +1,46 @@
+{
+  "type" : "End of Initiative Outcome" ,
+  "narrative" : "sample result narrative" ,
+  "comments" : [
+    {
+      "id" : "1",
+      "commenter" : "1",
+      "comment" : "This is a sample comment",
+      "mentions" : ""
+    },
+    {
+      "id" : "2",
+      "commenter" : "1",
+      "comment" : "This is another sample comment",
+      "mentions" : ""
+    }
+  ],
+  "responsible_entities" : [
+    {
+      "code" : "1" ,
+      "title" : "example actor type"
+    }
+  ],
+  "indicators" : [
+    {
+      "id" : "12" ,
+      "description" : "indicator description" ,
+      "unit" : "example unit" ,
+      "baseline_year" : 2023 ,
+      "baseline_value" : "example base value" ,
+      "target_year" : 2030 ,
+      "target_value" : "example target value" ,
+      "gender_aspect" : "gender aspect description"
+    },
+    {
+      "id" : "15" ,
+      "description" : "another indicator description" ,
+      "unit" : "example unit" ,
+      "baseline_year" : 2022 ,
+      "baseline_value" : "another example base value" ,
+      "target_year" : 2030 ,
+      "target_value" : "another example target value" ,
+      "gender_aspect" : "another gender aspect description"
+    }
+  ]
+}

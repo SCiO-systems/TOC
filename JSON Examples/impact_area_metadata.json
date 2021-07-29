@@ -1,0 +1,21 @@
+{
+  "code" : "1",
+  "narrative" : "Sample action area outcome narrative",
+  "indicators" : [
+    "1", "3"
+  ],
+  "comments" : [
+    {
+      "id" : "1",
+      "commenter" : "1",
+      "comment" : "This is a sample comment",
+      "mentions" : ""
+    },
+    {
+      "id" : "2",
+      "commenter" : "1",
+      "comment" : "This is another sample comment",
+      "mentions" : ""
+    }
+  ]
+}

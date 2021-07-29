@@ -1,0 +1,21 @@
+{
+  "list" : {
+    "id" : "1",
+    "access" : "private",
+    "list_name" : "yes_no",
+    "choices" : [
+      {
+        "name" : "yes",
+        "label" : "yes"
+      },
+      {
+        "name" : "no",
+        "label" : "no"
+      },
+      {
+        "name" : "n_a",
+        "label" : "N/A"
+      }
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "code" : "",
+  "type" : "",
+  "status" : "",
+  "implementor" : {
+    "id" : "",
+    "name" : "",
+    "type" : ""
+  },
+  "name" : "",
+  "related_sdgs" : [
+    {
+      "code" : "",
+      "title" : "",
+      "description" : ""
+    }
+  ],
+  "short_name" : "",
+  "funders" : [
+    {
+      "id" : "",
+      "name" : ""
+    }
+  ],
+  "partners" : [
+    {
+      "id" : "",
+      "name" : ""
+    }
+  ],
+  "work_packages" : [
+    {
+      "id" : "",
+      "title" : "",
+      "outcomes" : [
+        {
+          "id" : "",
+          "description" : "",
+          "indicators" : [
+            {
+              "id" : "",
+              "description" : "",
+              "unit" : {
+                "id" : "",
+                "name" : ""
+              },
+              "baseline_year" : "",
+              "baseline_value" : "",
+              "target_year" : "",
+              "target_value" : ""
+            }
+          ]
+        }
+      ],
+      "outputs" : [
+        {
+          "id" : "",
+          "description" : "",
+          "indicators" : [
+            {
+              "id" : "",
+              "description" : "",
+              "unit" : {
+                "id" : "",
+                "name" : ""
+              },
+              "baseline_year" : "",
+              "baseline_value" : "",
+              "target_year" : "",
+              "target_value" : ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

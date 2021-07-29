@@ -1,0 +1,23 @@
+{
+  "code" : "1",
+  "title" : "Test Initiative 1",
+  "description" : "Sample initiative description",
+  "action_areas" : [
+    "1"
+  ] ,
+  "project_funders" : [
+    {
+      "code" : "1",
+      "title" : "funder name example"
+    }
+  ] ,
+  "project_partners" : [
+    {
+      "code" : "1",
+      "title" : "organization example"
+    }
+  ],
+  "sdgs" : [
+    "1", "3"
+  ]
+}

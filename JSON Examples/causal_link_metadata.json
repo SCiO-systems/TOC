@@ -1,0 +1,36 @@
+{
+  "narrative" : "Causal link narrative example" ,
+  "comments" : [
+    {
+      "id" : "1",
+      "commenter" : "1",
+      "comment" : "This is a sample comment",
+      "mentions" : ""
+    },
+    {
+      "id" : "2",
+      "commenter" : "1",
+      "comment" : "This is another sample comment",
+      "mentions" : ""
+    }
+  ],
+  "actions" : [
+    {
+      "description" : "Action 1 description",
+      "actor" : {
+        "code" : "1",
+        "title" : "actor name"
+      } ,
+      "scope" : [
+        {
+          "code" : "1" ,
+          "name" : "Greece"
+        }
+      ],
+      "assumptions" : [
+        "assumption 1 description",
+        "assumption 2 description"
+      ]
+    }
+  ]
+}

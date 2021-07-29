@@ -1,0 +1,36 @@
+{
+  "programme" : {
+    "id" : 1,
+    "title" : "Test Initiative 1",
+    "description" : "Description example",
+    "type" : "GCIAR Project",
+    "action_areas" : [
+      "1", "3"
+    ],
+    "sdgs" : [
+      "1",
+      "4"
+    ]
+  },
+  "pdb" : {
+    "status" : "enabled",
+    "pdb_link" : "http://www.example.com"
+  },
+  "team_id" : 1,
+  "team_members" : [
+    {
+      "userid" : 1,
+      "name" : "Antonis Koukourikos",
+      "email" : "antonis@scio.systems",
+      "role_id" : 1,
+      "role" : "Leader"
+    },
+    {
+      "userid" : 2,
+      "name" : "George Gkoumas",
+      "email" : "giorgos@scio.systems",
+      "role_id" : 2,
+      "role" : "CoLeader"
+    }
+  ]
+}

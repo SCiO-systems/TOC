@@ -1,0 +1,98 @@
+{
+  "sdgs": [
+    {
+      "code": "1",
+      "title": "Goal 1: No Poverty",
+      "description": "Goal 1: No Poverty",
+      "targets": [
+        {
+          "code": "1.1",
+          "title": "By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.25 a day",
+          "indicators": [
+            {
+              "code": "1.1.1",
+              "unsd_code": "C010101",
+              "title": "Proportion of the population living below the international poverty line by sex, age, employment status and geographic location (urban/rural)"
+            }
+          ]
+        },
+        {
+          "code": "1.2",
+          "title": "By 2030, reduce at least by half the proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",
+          "indicators": [
+            {
+              "code": "1.2.1",
+              "unsd_code": "C010201",
+              "title": "Proportion of population living below the national poverty line, by sex and age)"
+            },
+            {
+              "code": "1.2.2",
+              "unsd_code": "C010202",
+              "title": "Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions"
+            }
+          ]
+        },
+        {
+          "code": "1.3",
+          "title": "Implement nationally appropriate social protection systems and measures for all, including floors, and by 2030 achieve substantial coverage of the poor and the vulnerable",
+          "indicators": [
+            {
+              "code": "1.3.1",
+              "unsd_code": "C010301",
+              "title": "Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable"
+            }
+          ]
+        },
+        {
+          "code": "1.4",
+          "title": "By 2030, ensure that all men and women, in particular the poor and the vulnerable, have equal rights to economic resources, as well as access to basic services, ownership and control over land and other forms of property, inheritance, natural resources, appropriate new technology and financial services, including microfinance",
+          "indicators": [
+            {
+              "code": "1.4.1",
+              "unsd_code": "C010401",
+              "title": "Proportion of population living in households with access to basic services"
+            },
+            {
+              "code": "1.4.2",
+              "unsd_code": "C010402",
+              "title": "Proportion of total adult population with secure tenure rights to land, (a) with legally recognized documentation, and (b) who perceive their rights to land as secure, by sex and type of tenure"
+            }
+          ]
+        },
+        {
+          "code": "1.5",
+          "title": "By 2030, build the resilience of the poor and those in vulnerable situations and reduce their exposure and vulnerability to climate-related extreme events and other economic, social and environmental shocks and disasters",
+          "indicators": [
+            {
+              "code": "1.1.1",
+              "unsd_code": "C010101",
+              "title": "Proportion of the population living below the international poverty line by sex, age, employment status and geographic location (urban/rural)"
+            }
+          ]
+        },
+        {
+          "code": "1.a",
+          "title": "Ensure significant mobilization of resources from a variety of sources, including through enhanced development cooperation, in order to provide adequate and predictable means for developing countries, in particular least developed countries, to implement programmes and policies to end poverty in all its dimensions",
+          "indicators": [
+            {
+              "code": "1.1.1",
+              "unsd_code": "C010101",
+              "title": "Proportion of the population living below the international poverty line by sex, age, employment status and geographic location (urban/rural)"
+            }
+          ]
+        },
+        {
+          "code": "1.b",
+          "title": "Create sound policy frameworks at the national, regional and international levels, based on pro-poor and gender-sensitive development strategies, to support accelerated investment in poverty eradication actions",
+          "indicators": [
+            {
+              "code": "1.1.1",
+              "unsd_code": "C010101",
+              "title": "Proportion of the population living below the international poverty line by sex, age, employment status and geographic location (urban/rural)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
